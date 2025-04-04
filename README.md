@@ -13,8 +13,9 @@
 - Do it! C++ 완전 정복
 
 ### 자격증 취득
-- SQLD (8.28 자격증 시험 응시 예정)
+- SQLD (8.28 자격증 시험 응시 예정? 고민중)
 - ADSP OR TOEIC (고민 중)
+- Cloud Practitioner ? 고민중
 
 ## 일지
 
@@ -30,3 +31,19 @@ Do it! C++ 완전 정복 책 주문 완료 <br>
 그래도 선임 몇분 뺴고는 다 괜찮아서 보여서 다행 ~ <br>
 레전드 개뺑이 시작 ~
 
+### 2024.04.04 금요일
+
+의대생 동기 생김. <br>
+싸지방 연등 2일차 <br>
+
+- ['쉬었음' 역대 최고인데, 실업률은 왜 최저인가?](https://www.youtube.com/watch?v=Eg8Zvti2jAg) <br>
+- [국민연금 개혁안, 나는 얼마 낼까?](https://www.youtube.com/watch?v=vnnfbKa0Tqg) <br>
+
+더내고 더받자는 답이 없네, 아니면 개혁을 빨리했던가, 아니면 그냥 없애던가, 부담만 증가시키네 <br>
+군복무 크레딧도 18개월 중에 12개월 인정은 ㅋㅋ <br>
+
+- [ChatGPT 가 NextJS 를 버렸다고?](https://www.youtube.com/watch?v=5r44Te7V5RI)
+
+remix가 드디어 뜨노<br>
+군대싸지방에서 웹을 공부할수있을지 모르겠네<br>
+온라인 ide가 한게가 있을텐디<br>
