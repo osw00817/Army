@@ -46,4 +46,27 @@ Do it! C++ 완전 정복 책 주문 완료 <br>
 
 remix가 드디어 뜨노<br>
 군대싸지방에서 웹을 공부할수있을지 모르겠네<br>
-온라인 ide가 한게가 있을텐디<br>
+온라인 ide가 한계가 있을텐디<br>
+
+### 2024.04.05 토요일
+
+싸지방 연등 3일차 <br>
+다음주에 파견지 근무 선임분들 돌아오면 싸지방 통제될수있음 큰일남
+
+- [SOUTH KOREA IS OVER](https://www.youtube.com/watch?v=Ufmu1WD2TSk) <br>
+
+음 대충 한국이 심하게 망해가고, 이는 국제적 추세이다
+
+- [나오는 것만 나오는 팝송 플리가 지겨운 사람들을 위한 팝송 플레이리스트](https://www.youtube.com/watch?v=Ufmu1WD2TSk) <br>
+
+노래 좋음 <br>
+
+c++ 책 오기전에 c/c++ 재활 시작 <br>
+
+- [SoEn: 소프트웨어 공학 연구소](http://soen.kr) <br>
+- [TCPschool](https://www.tcpschool.com/cpp/intro) <br>
+  
+대충 위 사이트 참고하면서 기초 다시 공부중 <br>
+
+
+
