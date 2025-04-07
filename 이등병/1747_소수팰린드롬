@@ -1,0 +1,30 @@
+#include <iostream>
+#include <cmath>
+#include <string>
+using namespace std;
+
+int main() {
+    int num;
+    std::cin >> num;    
+    for(int i = num;i<sqrt(1000000);i++) {
+        string tmp = to_string(i);
+        int size = 0;
+        int tmp1 = i;
+    
+        while(tmp1 > 0) {
+            tmp1 /= 10;
+            size++;
+        }
+        //에라토스테네스체 잘못씀, 내일 이어서
+        for(int j=0;j<(size%2==1 ? size/2+1 : size/2);j++) {
+            if(tmp[j] != tmp[size-1-j]) {
+                j = (size%2==1 ? size/2+1 : size/2);
+                break;
+            }
+            std::cout << tmp;
+            return 0;
+        }
+    }
+    
+    return 0;
+}
