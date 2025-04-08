@@ -76,13 +76,13 @@ c++ 책 오기전에 c/c++ 재활 시작 <br>
 
 - [Doechii - Anxiety (Visualizer)](https://www.youtube.com/watch?v=egemoVK0IKY)
 
-오랜만에 알고리즘푸니깐 [1747](https://www.acmicpc.net/problem/1747)번도 잘 안풀리노... <br>
+오랜만에 알고리즘푸니깐 [1747](https://www.acmicpc.net/problem/1747)번도 잘 안풀리너... <br>
 큰일이다 비상 비상 초비상
 
 ### 2025.04.08 화요일
 
 싸지방 연등 5일차 <br>
-일단 하루이틀만 연등 더해보고 연등을 눈치보면서 해야겄노 <br>
+일단 하루이틀만 연등 더해보고 연등을 눈치보면서 해야겄다 <br>
 조금 평판이 안좋아지는거 같긴한데, 이젠 나도 모르겟다~ <br>
 
 - [1747](https://www.acmicpc.net/problem/1747)번 성공.
