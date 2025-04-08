@@ -57,7 +57,7 @@ remix가 드디어 뜨노<br>
 
 음 대충 한국이 심하게 망해가고, 이는 국제적 추세이다
 
-- [나오는 것만 나오는 팝송 플리가 지겨운 사람들을 위한 팝송 플레이리스트](https://www.youtube.com/watch?v=Ufmu1WD2TSk) <br>
+- [나오는 것만 나오는 팝송 플리가 지겨운 사람들을 위한 팝송 플레이리스트](https://www.youtube.com/watch?v=Cg2PgxqeyTs) <br>
 
 노래 좋음 <br>
 
@@ -68,14 +68,25 @@ c++ 책 오기전에 c/c++ 재활 시작 <br>
   
 대충 위 사이트 참고하면서 기초 다시 공부중 <br>
 
-### 2025.04.07 일요일
+### 2025.04.07 월요일
 
 싸지방 연등 4일차 <br>
 응 싸지방 연등 통제~ <br>
 선임이 흡연실데려가서 싸지방 연등 뒤에서 말나온다고 닦였어~ ㅋㅋㅋㅋㅋ <br>
 
-- [오노추](https://www.youtube.com/watch?v=egemoVK0IKY)
+- [Doechii - Anxiety (Visualizer)](https://www.youtube.com/watch?v=egemoVK0IKY)
 
 오랜만에 알고리즘푸니깐 [1747](https://www.acmicpc.net/problem/1747)번도 잘 안풀리노... <br>
 큰일이다 비상 비상 초비상
+
+### 2025.04.08 화요일
+
+싸지방 연등 5일차 <br>
+일단 하루이틀만 연등 더해보고 연등을 눈치보면서 해야겄노 <br>
+조금 평판이 안좋아지는거 같긴한데, 이젠 나도 모르겟다~ <br>
+
+- [1747](https://www.acmicpc.net/problem/1747)번 성공.
+- [1652](https://www.acmicpc.net/problem/1652)번 시도중.
+
+
 
