@@ -31,13 +31,14 @@ int main() {
             if(A[i]+A[j] == goal) {
                 //책 보고 꺠우친 내용
                 //입력값에 0이 있는 경우 같은수가 있을수도 있기때문에 이를 제외하여야한다.
-               if(A[i] != goal && A[j] != goal) {
-                   cnt++;
-                   break;
-               }
-                else if(A[i] == goal) {
+                if(i != z && j != z) {
+                    cnt++;
+                    break;
+                }
+                else if(i == z) {
                     i++;
-                } else {
+                }
+                else if(j == z) {
                     j--;
                 }
             }
