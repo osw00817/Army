@@ -1,0 +1,73 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+/*
+내 아래 니 위 집합..
+0 a b
+a 포함 집합과 b 포함 집합 합치기
+1 a b 
+같은 집합인지 확인
+
+유니온 파인드 이용
+
+7 8
+0 1 3
+1 1 7
+0 7 6
+1 7 1
+0 3 7
+0 4 2
+0 1 1
+1 1 1
+*/
+
+vector<int> set;
+void unionf(int a,int b);
+int find(int a);
+bool same(int a,int b);
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    
+    int n, loop;
+    cin >> n >> loop;
+    set.resize(n+1);
+    for(int i = 1;i<=n;i++) {
+        set[i] = i;
+    }
+    while(loop--) {
+        int option,a,b;
+        cin >> option >> a >> b;
+
+        if(option == 0) {
+            unionf(a,b);
+        } else {
+            cout << (same(a,b) ? "YES" : "NO") << "\n";
+        }
+    }
+}
+
+int find(int a) {
+    if(a == set[a]) {
+        return a;
+    } 
+    return a = find(set[a]);
+}
+
+void unionf(int a,int b) {
+    a = find(a);
+    b = find(b);
+
+    if(a != b) {
+        set[b] = a;
+    }
+}
+
+bool same(int a,int b) {
+    a = find(a);
+    b = find(b);
+    return (a == b);
+}
+
